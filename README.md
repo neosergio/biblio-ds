@@ -23,6 +23,9 @@ Por eso, ofrecemos a continuación bibliografía previa para ir poniéndose a pu
 - [Tutorial de Python Argentina](http://docs.python.org.ar/tutorial/3/index.html)
 - [Curso de fundamentos básicos de python para Data Science edX](https://www.edx.org/es/course/python-basics-for-data-science-ibm) (en inglés)
 - [Fundamentos de la programación en Python en Udacity](https://www.udacity.com/course/programming-foundations-with-python--ud036) (en inglés)
+- [Fluent Python: Clear, Concise, and Effective Programming 1st Edition](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming-ebook/dp/B0131L3PW4)
+- [Programming Python: Powerful Object-Oriented Programming 4th Edition](https://www.amazon.com/Programming-Python-Powerful-Object-Oriented-ebook-dp-B004GTLFJ6/dp/B004GTLFJ6/ref=mt_kindle?_encoding=UTF8&me=&qid=)
+- [Mastering Python for Data Science 1st Edition](https://www.amazon.com/Mastering-Python-Science-Samir-Madhavan-ebook/dp/B010T266OW?tag=googinhydr18418-21) (en inglés)
 
 ### Probabilidad y estadística
 - [Libro de estadística básica](http://webs.ucm.es/info/Astrof/users/jaz/ESTADISTICA/libro_GCZ2009.pdf)
